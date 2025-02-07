@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     description: "The official Next.js Learn Dashboard built with App Router.",
     images: [
       {
-        url: "http://localhost:3000/opengraph-image.png?opengraph-image.4bef2aca.png",
+        url: "https://dashboard-jagged.vercel.app/opengraph-image.png?opengraph-image.4bef2aca.png",
         width: 1686,
         height: 882,
         type: "image/png",
