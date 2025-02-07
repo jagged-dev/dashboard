@@ -1,6 +1,6 @@
 import "@/src/css/styles.css";
 import { inter } from "@/src/ts/fonts";
-import { Metadata } from "next";
+// import { Metadata } from "next";
 
 // export const metadata: Metadata = {
 //   title: {
