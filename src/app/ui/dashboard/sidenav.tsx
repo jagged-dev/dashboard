@@ -2,7 +2,7 @@ import Link from "next/link";
 import NavLinks from "@/src/app/ui/dashboard/nav-links";
 import AcmeLogo from "@/src/app/ui/acme-logo";
 import { PowerIcon } from "@heroicons/react/24/outline";
-import { signOut } from "@/auth";
+import { signOut } from "@/src/ts/auth";
 
 export default function SideNav() {
   return (
